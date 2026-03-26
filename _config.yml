@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Jia Yan"
-description              : #Doctoral Candidate in Communication
-                            University of Illinois Urbana-Champaign"
+description              : "Interpersonal Communication <br> Health Communication"
 repository               : "hi-jiayan/github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +23,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Jia Yan"
   avatar           : "images/IMG_0127 4.jpg"
-  bio              : "Department of Communication, University of Illinois Urbana-Champaign"
+  bio              : "Doctoral Candidate in Communication, University of Illinois Urbana-Champaign"
   location         : "Urbana, IL, USA"
   employer         :
   pubmed           : 

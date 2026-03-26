@@ -14,6 +14,10 @@ Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinoi
 
 I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
+### Education
+- *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
+- *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois Urbana-Champaign 
+
 <span class='anchor' id='news'></span>
 # 📬 News
 - *2026.04*: &nbsp; 🎤 My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at Kentucky Conference on Health Communication in Lexington, KY.
@@ -71,10 +75,6 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
 - *2021, 2023* **Elizabeth Winter Young Fellowship** (Total: $7500) <br>
   *Department of Communication, University of Illinois, Urbana-Champaign*
 
-<span class='anchor' id='education'></span>
-# 📖 Education
-- *2020.08 - 2022.05*, M.A., Communication, University of Illinois, Urbana-Champaign
-- *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois, Urbana-Champaign 
 
 <span class='anchor' id='teaching'></span>
 # 📚 Teaching

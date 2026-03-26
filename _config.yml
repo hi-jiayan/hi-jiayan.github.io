@@ -30,7 +30,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&user=2bxxVZQAAAAJ"
-  email            : "jiayan2@illinois.edu"
+  email            : #"jiayan2@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

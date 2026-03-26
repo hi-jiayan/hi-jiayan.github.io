@@ -22,9 +22,9 @@ Feel free to reach out to me via email at jiayan2@illinois.edu with any question
 
 <span class='anchor' id='news'></span>
 # 📬 News
-- *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the [76th Annual International Communication Association Conference] (https://www.icahdq.org/mpage/ICA26) in Cape Town, South Africa.
+- *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the [76th Annual International Communication Association Conference](https://www.icahdq.org/mpage/ICA26) in Cape Town, South Africa.
   
-- *2026.04*: &nbsp; 🎤 My coauthored paper *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness* will be presented at the [Kentucky Conference on Health Communication] (https://comm.uky.edu/kchc/) in Lexington, KY.
+- *2026.04*: &nbsp; 🎤 My coauthored paper *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness* will be presented at the [Kentucky Conference on Health Communication](https://comm.uky.edu/kchc/) in Lexington, KY.
 
  
 <span class='anchor' id='publications'></span>

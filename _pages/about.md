@@ -36,7 +36,8 @@ Feel free to reach out to me via email at jiayan2@illinois.edu with any question
 
 Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*. <https://doi.org/10.1080/10410236.2025.2585307>
 
-Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons.
+Quick, B., \*Caban, S., \*Chung, M., & **\*Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons. *\*Authors contributed equally and are listed in alphabetical order*
+
 
 Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication*. <https://doi.org/10.1080/10410236.2024.2347000>
 
@@ -66,17 +67,17 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
 
 - *2023–2025*	**Friends Conference Travel Award** (Total: $2800) <br>
   Department of Communication, University of Illinois Urbana-Champaign
+
+- *2018–2025* **Teacher Ranked as Excellent** <br>
+  Fall 2018, Fall 2020\*, Spring 2021, Fall 2021, Spring 2022\*, Fall 2022, Spring 2023\*, Fall 2023\*, Spring 2024\*, Fall 2024\*, Spring 2025* <br>
+  *University of Illinois Urbana-Champaign* <br>
+  *\*Denotes outstanding rating for top 10% of graduate instructors/ teaching assistants among campus*
   
 - *2023, 2024* **Conference Presentation Award** (Total: $300)<br>
   *Graduate College, University of Illinois Urbana-Champaign*
 
 - *2023, 2024* **Conference Travel Grant** (Total: $400) <br>
   *Student Caucus, National Communication Association*
-  
-- *2018–2025* **Teacher Ranked as Excellent** <br>
-  Fall 2018, Fall 2020\*, Spring 2021, Fall 2021, Spring 2022\*, Fall 2022, Spring 2023\*, Fall 2023\*, Spring 2024\*, Fall 2024\*, Spring 2025* <br>
-  *University of Illinois Urbana-Champaign* <br>
-  *\*Denotes outstanding rating for top 10% of graduate instructors/ teaching assistants among campus*
   
 - *2021, 2023* **Elizabeth Winter Young Fellowship** (Total: $7500) <br>
   *Department of Communication, University of Illinois, Urbana-Champaign*

@@ -18,7 +18,7 @@ Feel free to reach out to me via email at jiayan2@illinois.edu with any question
 
 ## Education
 - *2020.08 - 2022.05*, M.A., Communication, University of Illinois Urbana-Champaign
-- *2016.08 - 2020.05*, B.A., Communication and Psycholoy, University of Illinois Urbana-Champaign 
+- *2016.08 - 2020.05*, B.A., Communication and Psychology, University of Illinois Urbana-Champaign 
 
 <span class='anchor' id='news'></span>
 # 📬 News

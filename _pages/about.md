@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Doctoral Candidate in Communication at the University of Illinois, Urbana-Champaign. I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
+Hi! I am Jia, a Doctoral Candidate in Communication at the University of Illinois Urbana-Champaign. I study how communication within interpersonal relationships promotes mental and physical well-being. My research primarily focuses on supportive communication in health-related contexts, especially when individuals experience identity threats related to their health conditions. I also examine how health recommendations communicated in interpersonal contexts shape people’s cognitive appraisals and behavioral intentions.
 
-# 🔥 News
-- *2026.04*: &nbsp;🎉 My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness* will be presented at Kentucky Conference on Health Communication in Lexington, KY.
+# 📬 News
+- *2026.04*: &nbsp; My collaborated paper, *Do actions speak louder? The primacy of verbal person-centered support for patients with invisible illness*, will be presented at Kentucky Conference on Health Communication in Lexington, KY.
  
-- *2026.06*: &nbsp;🎉 The paper I lead, *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* will be presented at 76th Annual International Communication Association Conference in Cape Town, South Africa.
+- *2026.06*: &nbsp; I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the 76th Annual International Communication Association Conference in Cape Town, South Africa.
 
 
 # 📝 Publications 
@@ -37,16 +37,18 @@ Quick, B., Caban, S., Chung, M., & **Yan, J.** (2025). Introducing Health Commun
 
 Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. Health Communication.
 
-# Manuscripts Under Review and in Preparation
-Yan, J., Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Jounal blinded for peer review.*
+# Work in Progress
+**Yan, J.**, Guntzviller, L. M., & Bigsby, E. (R&R Under Review). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Jounal blinded for peer review.*
 
-Yan, J., Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Jounal blinded for peer review.*
+**Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Jounal blinded for peer review.*
 
-Liao, D., Hildenbrand, G., Yan, J., & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Jounal blinded for peer review.*
+Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Jounal blinded for peer review.*
 
-Yan, J. (Manuscript in Preparation). From stigma to strategy: How cultural and relational contexts shape emerging adults’ mental health support seeking. Health Communication.
+Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (Expected 2026). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
 
-Guntzviller, L. M., Yan, J., Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (Manuscript in Preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants. 
+**Yan, J.** (Manuscript in Preparation). From stigma to strategy: How cultural and relational contexts shape emerging adults’ mental health support seeking. 
+
+Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (Manuscript in Preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants. 
 
 
 # 🎖 Funding, Honors and Awards

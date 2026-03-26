@@ -64,8 +64,8 @@ Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L
   
 - *2018–2025* **Teacher Ranked as Excellent** <br>
   Fall 2018, Fall 2020*, Spring 2021, Fall 2021, Spring 2022*, Fall 2022, Spring 2023*, Fall 2023*, Spring 2024*, Fall 2024*, Spring 2025* <br>
-  University of Illinois Urbana-Champaign <br>
-  *Denotes outstanding rating for top 10% of TAs among campus
+  *University of Illinois Urbana-Champaign* <br>
+  **Denotes outstanding rating for top 10% of TAs among campus*
   
 - *2021, 2023* **Elizabeth Winter Young Fellowship** (Total: $7500) <br>
   *Department of Communication, University of Illinois, Urbana-Champaign*

@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-Hi! I am Jia, a Doctoral Candidate in [Communication at the University of Illinois Urbana-Champaign](communication.illinois.edu). Before continuing into the doctoral program, I obtained my Bachelor’s degree in Communication and Psychology, and my Master’s degree in Communication, both from Illinois.
+Hi! I am Jia, a Doctoral Candidate in [Communication at the University of Illinois Urbana-Champaign](https://communication.illinois.edu). Before continuing into the doctoral program, I obtained my Bachelor’s degree in Communication and Psychology, and my Master’s degree in Communication, both from Illinois.
 
 I study **interpersonal and health communication**. My research is guided by a central question: How can communication in personal relationships and healthcare settings reduce the burden of illness, support better health decision-making, and improve well-being? I focus on the role of communication in shaping how people understand health challenges and respond to support and advice, particularly in ways that are tied to identity, stigma, and relationships. My research revolves around two core areas.
 

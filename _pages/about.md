@@ -66,7 +66,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 # 🎖 Funding, Honors, and Awards
 - *2026* **Karl Wallace Award** <br>
   *Department of Communication, University of Illinois Urbana-Champaign* <br>
-  *(Competitive award recognizing distinguished graduate student scholarship based on the overall record of scholarly work.)*
+  *Competitive award recognizing distinguished graduate student scholarship.*
 
 - *2025* **Ruth Anne Clark Award** ($1600 for dissertation research)<br>
   *Department of Communication, University of Illinois Urbana-Champaign*

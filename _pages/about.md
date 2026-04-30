@@ -89,7 +89,7 @@ For questions, access to publications, or to discuss potential collaborations, f
   *Student Caucus, National Communication Association*
   
 - *2021, 2023* **Elizabeth Winter Young Fellowship** (Total: $7500) <br>
-  *Department of Communication, University of Illinois, Urbana-Champaign*
+  *Department of Communication, University of Illinois Urbana-Champaign*
 
 
 <span class='anchor' id='teaching'></span>

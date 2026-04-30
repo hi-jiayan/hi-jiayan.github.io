@@ -54,7 +54,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 ## Work in Progress
 - **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (Under Review). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
 
-- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (Revise & Resubmit). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Journal blinded for peer review.*
+- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (R&R Under Review). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Journal blinded for peer review.*
 
 - Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (Expected 2026). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
 

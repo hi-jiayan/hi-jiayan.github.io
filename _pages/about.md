@@ -48,7 +48,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 - Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*, _41_(10), 1685–1695 <https://doi.org/10.1080/10410236.2025.2585307>
 
-- Quick, B., \*Caban, S., \*Chung, M., & **\*Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons. *\*Authors contributed equally and are listed in alphabetical order*
+- Quick, B., \*Caban, S., \*Chung, M., & **\*Yan, J.** (2025). Introducing health communication science to mental health researchers: An examination of information seeking, processing, and dissemination rrameworks. In Yzer, M. & Siegal, J. (Eds.), *The handbook of mental health communication*. John Wiley & Sons. *\*Authors contributed equally and are listed in alphabetical order*
 
 - Thompson, C. M., Bishop, M. J., Dillard, T. C., Maurice, J. M., Rollins, D. D., Pulido, M. D., Salas, M. J., Mendelson, E. A., **Yan, J.**, Gerlikovski, E. R., Benevento, S. V., Zeinstra, C., & Kesavadas, T. (2025). Healing health care disparities: A pilot test of a virtual reality implicit bias training module for physicians in the context of Black maternal health. *Health Communication, 40*(3), 445-456. <https://doi.org/10.1080/10410236.2024.2347000>
 

@@ -28,7 +28,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 <span class='anchor' id='news'></span>
 # 📬 News
-– *2026.11* &nbsp; 🎤 I will present my dissertation study 1 *From stigma to strategy: How cultural and relational contexts shape emerging adults’ mental health support seeking* at the [112th National Communication Association Conference](https://www.natcom.org/nca-112th-annual-convention/) in New Orleans, LA.
+- *2026.11* &nbsp; 🎤 I will present my dissertation study 1 *From stigma to strategy: How cultural and relational contexts shape emerging adults’ mental health support seeking* at the [112th National Communication Association Conference](https://www.natcom.org/nca-112th-annual-convention/) in New Orleans, LA.
 
 - *2026.06*: &nbsp; 🎤 I will present our paper *Understanding young adult cancer patients’ support-seeking struggles in personal relationships* at the [76th Annual International Communication Association Conference](https://www.icahdq.org/mpage/ICA26) in Cape Town, South Africa. [*View Presentation Slides.*](https://uofi.box.com/s/vf4tikiar3avbcfste6o62343rsx80w6)
   

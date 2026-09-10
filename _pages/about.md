@@ -68,7 +68,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 - Guntzviller, L. M., **Yan, J.**, Liao, D., & Pool, K. E. (data analysis). Identity implications in health conversations: Examining support provider and recipient facework perceptions.
 
-- Guntzviller, L. M., Mueller, K., ** Yan, J.**, Jimenez, V., & Tu, K. (data analysis). Daily support provision and provider stress: The role of perceived support quality among college students.
+- Guntzviller, L. M., Mueller, K., **Yan, J.**, Jimenez, V., & Tu, K. (data analysis). Daily support provision and provider stress: The role of perceived support quality among college students.
 
 - **Yan, J.**, & Mai, S. (data collection). Planning mental health support-seeking conversations: A communication intervention for college students.
 

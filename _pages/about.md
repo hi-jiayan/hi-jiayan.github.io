@@ -36,13 +36,13 @@ For questions, access to publications, or to discuss potential collaborations, f
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (in press). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*.
+- Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (in press). Historical landscape of support theory. In H. Faw, J. R. Pederson, A. J. Holmstrom, & A. C. High, (Eds.), *The Routledge handbook of supportive communication*.
   
-- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (2026). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*. <https://doi.org/10.1080/03637751.2026.2687654>
+- **Yan, J.**, Guntzviller, L. M., & Bigsby, E. (2026). The influence of recommendation source on psychological reactance: A study among Black, Latino, and White participants. *Communication Monographs*. Advance online publication. <https://doi.org/10.1080/03637751.2026.2687654>
 
-- Guntzviller, L. M., Caughlin, J. P., **Yan, J.**, & Han, J. (in press). Historical Landscape of Support Theory. In Faw, H., Pederson, J. R., Holmstrom, A. J., & High, A. C. (Eds.), *The Routledge Handbook of Supportive Communication*. 
-
-- **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling, 137,* 108810. <https://doi.org/10.1016/j.pec.2025.108810>
+- Liao, D., Hildenbrand, G., **Yan, J.**, & Chen, H. (2026). Do actions speak louder? The primacy of verbal person-centeredness for patients with invisible illness. *Communication Monographs*. Advance online publication. <https://doi.org/10.1080/03637751.2026.2715432>
+  
+- **Yan, J.**, Wilson, S. R., & Liao, D. (2025). Imagine your immune system is a sports team: Language expectancies in the use of physician analogies and jargon. *Patient Education & Counseling, 137,* Article 108810. <https://doi.org/10.1016/j.pec.2025.108810>
 
 - **Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health, 73*(4), 1825–1836. <https://doi.org/10.1080/07448481.2025.2451978>
 
@@ -58,13 +58,19 @@ For questions, access to publications, or to discuss potential collaborations, f
 ## Work in Progress
 - **Yan, J.**, Guntzviller, L. M., Iannarino, N. T., Wang, N. O., Ray, C. D. (revise & resubmit). Understanding young adult cancer patients’ support-seeking struggles in personal relationships. *Journal blinded for peer review.*
 
-- **Yan, J.**, & Guntzviller, L. M. (manuscript in preparation). From stigma to strategy: How cultural and relational contexts shape college students’ mental health support seeking. 
+- **Yan, J.**, & Guntzviller, L. M. (under review). From stigma to strategy: How cultural and relational contexts shape college students’ mental health support seeking. *Journal blinded for peer review.*
 
 - Guntzviller, L. M., **Yan, J.**, Bigsby, E., Liao, D., Pool, K. E., Kelpinski, L. F., & Jacobs Farnworth, M. (manuscript in preparation). Considering the role of the advisor and their characteristics within advice response theory: Testing and comparing three models across White, Black, and Latino participants.
 
-- **Yan, J.**, & Guntzviller, L. M. (data analysis). Beyond direct and indirect: Expanding the conceptualization of mental health support-seeking strategies in parent-child communication. 
+- **Yan, J.**, & Guntzviller, L. M. (data analysis). Beyond direct and indirect: Expanding the conceptualization of mental health support-seeking strategies in parent-child communication.
 
-- **Yan, J.**, & Mai, S. (data analysis). Planning mental health support-seeking conversations: A communication intervention for college students.
+- **Yan, J.**, & Liao, D. (data analysis). Reducing unintended consequences of supportive communication through physician nonverbal behaviors: Evidence across informational and emotional support contexts.
+
+- Guntzviller, L. M., **Yan, J.**, Liao, D., & Pool, K. E. (data analysis). Identity implications in health conversations: Examining support provider and recipient facework perceptions.
+
+- Guntzviller, L. M., Mueller, K., ** Yan, J.**, Jimenez, V., & Tu, K. (data analysis). Daily support provision and provider stress: The role of perceived support quality among college students.
+
+- **Yan, J.**, & Mai, S. (data collection). Planning mental health support-seeking conversations: A communication intervention for college students.
 
 <span class='anchor' id='honors'></span>
 # 🎖 Funding, Honors, and Awards

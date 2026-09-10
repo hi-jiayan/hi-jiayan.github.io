@@ -46,7 +46,7 @@ For questions, access to publications, or to discuss potential collaborations, f
 
 - **Yan, J.**, & Bigsby, E. (2025). Explicating college students’ COVID-19 prevention behaviors: Integrating information seeking and response efficacy into the reasoned action approach. *Journal of American College Health, 73*(4), 1825–1836. <https://doi.org/10.1080/07448481.2025.2451978>
 
-- Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*, Advance online publication. <https://doi.org/10.1080/10410236.2025.2585307>
+- Liao, D., **Yan, J.**, & Wilson, S. R. (2025). Beyond the words: How physicians’ verbal and nonverbal communication shape patients’ intentions to seek health information. *Health Communication*, _41_(10), 1685–1695 <https://doi.org/10.1080/10410236.2025.2585307>
 
 - Quick, B., \*Caban, S., \*Chung, M., & **\*Yan, J.** (2025). Introducing Health Communication Science to Mental Health Researchers: An Examination of Information Seeking, Processing, and Dissemination Frameworks. In Yzer, M. & Siegal, J. (Eds.), *The Handbook of Mental Health Communication*. John Wiley & Sons. *\*Authors contributed equally and are listed in alphabetical order*
 
